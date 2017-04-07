@@ -1,0 +1,14 @@
+{
+	"name": "kmelve/craftreactapppath",
+	"description": "Returns string to create-react-app build files",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "Knut Melvær",
+			"homepage": "https://github.com/kmelve"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
